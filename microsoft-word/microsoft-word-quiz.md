@@ -579,4 +579,11 @@ D. A flag icon with the colleague's name appears where their edit is being made.
 - [ ] check compatibility
 - [ ] protect document
 
+### Q74. What is the purpose of adding alternative text (alt text) to an image in your document?
+
+- [ ] Alt text describes what appears in the image.
+- [ ] Screen readers read the text aloud for users with visual impairments
+- [ ] Alt text improves accessibility in your document.
+- [x] all of these answers.
+
 [Reference](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
